@@ -3,30 +3,22 @@
   <img src="banner.gif" width="800" />
 </p>
 
-
-
-<!-- Coding GIF -->
-<!-- <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3JpZmxtZjVjZWt1aXFmbXJvd2J0aXpnOXoxcDB0cTBqbXJkdmFseCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="550" />
-</p> -->
----
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Scalable+Web+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+🚀;Building+Scalable+Web+Applications+💻" />
 </p>
-
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a **Full Stack Developer** .  
-I specialize in building **scalable backend systems**, **APIs**, and working with **modern databases**.
+I am a **Full Stack Developer** 💻.  
+I specialize in building **scalable backend systems** ⚙️, **APIs** 🌐, and working with **modern databases** 🗄️.
 
 - 💼 Full Stack Developer
-- ⚙️ React, Node.js, TypeScript, GraphQL, REST APIs
-- 🗄️ MongoDB, PostgreSQL
-- 🚀 Passionate about backend architecture & performance
+- ⚙️ React ⚛️, Node.js 🟢, TypeScript ✨, GraphQL 🧩, REST APIs 🔗
+- 🗄️ MongoDB 🍃, PostgreSQL 🐘
+- 🚀 Passionate about backend architecture & performance 💨
 
 ---
 
@@ -54,8 +46,6 @@ I specialize in building **scalable backend systems**, **APIs**, and working wit
 
 ---
 
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -76,12 +66,14 @@ I specialize in building **scalable backend systems**, **APIs**, and working wit
 
 <p align="center">
   <a href="https://www.linkedin.com/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/> 
   </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+
+  <a href="mailto:surender24623@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45"/> 
   </a>
-</p>
+  </p>
+
 
 <!-- Footer -->
 <p align="center">
