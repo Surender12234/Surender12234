@@ -11,9 +11,9 @@
 ---
 
 <!-- Coding GIF -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3JpZmxtZjVjZWt1aXFmbXJvd2J0aXpnOXoxcDB0cTBqbXJkdmFseCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="550" />
-</p>
+</p> -->
 
 ---
 
