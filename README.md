@@ -3,17 +3,18 @@
   <img src="banner.gif" width="800" />
 </p>
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Scalable+Web+Applications" />
-</p>
 
----
 
 <!-- Coding GIF -->
 <!-- <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3JpZmxtZjVjZWt1aXFmbXJvd2J0aXpnOXoxcDB0cTBqbXJkdmFseCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="550" />
 </p> -->
+---
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Scalable+Web+Applications" />
+</p>
+
 
 ---
 
