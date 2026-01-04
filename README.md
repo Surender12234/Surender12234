@@ -1,6 +1,6 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://www.canva.com/design/DAG9dMjsXHY/IdiAnUneMSUvM1afu_2vLg/watch?utm_content=DAG9dMjsXHY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbd398514c1" width="600" />
+  <img src="banner.gif" width="800" />
 </p>
 
 <!-- Typing Animation -->
