@@ -16,7 +16,7 @@ I am a **Full Stack Developer** 💻.
 I specialize in building **scalable backend systems** ⚙️, **APIs** 🌐, and working with **modern databases** 🗄️.
 
 - 💼 Full Stack Developer
-- ⚙️ React ⚛️, Node.js 🟢, TypeScript ✨, GraphQL 🧩, REST APIs 🔗
+- ⚙️ React ⚛️, Node.js 🟢, TypeScript ✨, GraphQL 🧩, REST APIs 🔗, Rust, Java.
 - 🗄️ MongoDB 🍃, PostgreSQL 🐘
 - 🚀 Passionate about backend architecture & performance 💨
 
